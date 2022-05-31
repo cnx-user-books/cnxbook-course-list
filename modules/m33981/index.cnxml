@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>course list</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33981</md:content-id>
+  <md:title>course list</md:title>
+  <md:abstract>testing module for course list</md:abstract>
+  <md:uuid>a46b4378-49b3-4191-990f-c37ff2635368</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-536"><title>Course List</title><list id="eip-693"><title>select course</title><item> <link document="m33977" version="1.6">course 1</link></item>
+<item> course 2</item>
+<item> course 3</item></list></section>
+</content>
+
+</document>

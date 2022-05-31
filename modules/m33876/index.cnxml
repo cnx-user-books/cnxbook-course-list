@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>chapter 2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33876</md:content-id>
+  <md:title>chapter 2</md:title>
+  <md:abstract>This module help us to see structure of various xml tags,
+like link,exercise..</md:abstract>
+  <md:uuid>b3ac82e5-fbe8-43a1-9ddd-1885d42140d9</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-898"><title>cnx stucrure</title><para id="eip-851"><title>Introduction to CNXML tags Understanding XML terminology Complete CNXML tag list </title></para></section><list id="eip-649"><title>Tags in the Edit-In-Place drop-down menu</title><item>para</item>
+<item>section</item>
+<item>code (block)</item>
+<item>list</item>
+<item>equation</item>
+<item>note</item>
+<item>exercise</item>
+<item>example</item>
+<item>table</item>
+</list><list id="eip-674"><title>Block tags you must manually insert</title><item>rule</item>
+<item>defination</item>
+<item>quote(block)</item>
+<item>figure</item>
+<item>preformat</item>
+</list><list id="eip-273" list-type="enumerated" number-style="arabic"><title>Inline tags you must manually insert</title><item>media</item>
+<item>quote (inline)</item>
+<item>foreign</item>
+<item>code (inline)</item>
+<item>sub</item>
+<item>sup</item>
+<item> preformat (inline)</item>
+<item>link</item>
+<item>cite</item>
+<item>term</item>
+<item>title</item></list><para id="eip-505">When you select an element from the drop-down menu and click "Add Here," Edit-In-Place inserts a text box in which you can enter your information for that CNXML element. The opening and closing bracketed tags  are written and inserted for you. To add elements to your module that are not in the drop-down menu you must manually write in the code. To do this, click "Switch to Editing Full Source" (for the full module) or open an editable element by clicking on it (for small changes to a single portion of the module). For many elements, such as emphasis, or note, this is not complicated. Just add the opening and closing tags around the text you want to modify, as shown in the following examples: </para><section id="eip-899"><title>Using the  <emphasis>para</emphasis>  tag </title><para id="eip-488"><title>Description</title>The para tag contains a paragraph of text. The text may contain other CNXML elements and markup. 
+</para><example id="eip-36"><para id="eip-174">Attributes
+
+para id</para>
+</example></section>
+
+
+
+
+
+<section id="eip-947"><title>Using the  figure  tag </title><para id="eip-151"><title>Description</title>The figure tag is used to provide the structure for inserting a figure into a CNXML document. A figure may contain an image, multimedia object, or caption tag. 
+</para><example id="eip-527"><title>image upload</title><para id="eip-41"><title><emphasis>HERE IS THE WAY TO UPLOAD ANY IMAGE</emphasis></title>figure id="img2"/
+
+titlesample silde 2 (509 x 700)/
+
+/title
+media id="img22" alt="Slide"
+
+    image mime-type="image/jpeg" src="image2.jpg"/
+
+  /media
+  
+caption Ziegler-Nichols Method slide 2
+
+  /caption
+
+/figure</para><note id="eip-895" type="important">First you have to import the file that you want to upload in the FILE section and use the same filename in the code</note>
+</example></section><figure id="img2"><title>sample silde 2 (509 x 700)</title><media id="img22" alt="Slide">
+    <image mime-type="image/jpeg" src="../../media/image2.jpg"/>
+  </media>
+  
+<caption>Ziegler-Nichols Method slide 2
+  </caption></figure><section id="eip-760"><title>exercise tag</title><para id="eip-244"><title>Description</title>The exercise tag is used to present a question or task to the reader, with an optional answer hidden from view until the reader wants to reveal it. The question or task is contained within a problem tag and the answer is contained within a solution tag, both of which are inside the exercise tag. </para></section><para id="eip-849"><title>Example For exercise tag</title></para><exercise id="eip-363"><problem id="eip-604">
+  <para id="eip-449">
+    What is Connexions??
+  </para>
+</problem>
+
+<solution id="eip-903">
+  <para id="eip-76"><emphasis>Connexions</emphasis> is a place to view and share educational material made of small knowledge chunks called modules that can be organized as courses, books, reports, etc. Anyone may view or contribute: 
+  </para>
+</solution>
+
+
+</exercise><section id="eip-109"><title>CODE tag</title><para id="eip-340"><title>Description</title>The code tag is used to insert a line or block of computer code (for example a command) into a document. 
+</para><code id="eip-489" display="block">Enter the command <code>ls /etc</code> to
+  get a listing of configuration files.
+<caption>Results in this display:
+
+Enter the command ls /etc to get a listing of configuration files. </caption></code>
+
+</section><section id="eip-526"><title>Link tag</title><para id="eip-713">
+The link tag is used to insert links to external resources. 
+</para>
+
+<para id="eip-714"><emphasis>Attributes(what's this?) </emphasis>
+
+*url (conditional): A Web path being linked to. Verify that the location is stable and will not change. You cannot use the "url" attribute in combination with the "document", "target-id", "resource", or "version" attributes.
+
+*document (conditional):The id of the module or collection being linked to (default is the present module).
+
+*target-id (conditional):The id of an element in a module or collection, such as a section or an image (default is the root element of the target module or collection). Can refer to an element in the present module or, alternately, an element on a seperate module if the "document" attribute has been specified. You cannot use the "target-id" attribute in combination with the "resource" attribute.
+
+*resource (conditional)The name of a resource, such as a supplemental PDF or text document (default is nothing). The resource must be a part of the present module or, if the "document" attribute has been specified, must be part of the target module.
+
+*version (conditional):The version of the module or collection being linked to (default is the latest version of the module or collection). Can refer to the module you are on or, alternately, a seperate module or collection if the "document" attribute has been specified.
+
+    * window (optional):
+      Possible values:
+          o replace - The code will navigate to the reference URL in the same current window (default).
+          o new - The code will be navigate to the reference URL in a new window
+    * strength (optional):
+      Possible values:
+          o 1 - Sets link strength to 1 (the weakest)
+          o 2 - Sets link strength to 2 (medium strength)
+          o 3 - Sets link strength to 3 (the strongest)
+    * id (optional): A unique identifier, whose value must begin with a letter and contain only letters, numbers, hyphens, underscores, colons, and/or periods (no spaces).
+
+
+</para><note id="eip-719">Links must provide a target, so one of the following attributes must be defined: "url", "document", "target-id", "resource", or "version".</note></section><section id="eip-998"><title>Table Tag</title><para id="eip-780">
+
+</para></section>
+
+
+
+
+</content>
+
+
+</document>

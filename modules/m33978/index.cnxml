@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>chapter 1 </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33978</md:content-id>
+  <md:title>chapter 1 </md:title>
+  <md:abstract/>
+  <md:uuid>bb7c8e86-9c71-4693-b42d-2e191f3efce5</md:uuid>
+</metadata>
+<content>
+    <para id="eip-849"><title>Chapter 1</title></para><para id="id28153348">Connexions Overview </para>
+    <para id="id35909902">1.1 Introduction to Connexions<sup>1 </sup></para>
+    <para id="id9596272">1.1.1 Overview </para>
+    <para id="id19746446">Connexions is a web-based document creation and management system for education and research materials. There are two parts to Connexions: a Content Commons that contains these materials and the software tools necessary to create, manage, and access these materials. </para>
+    <para id="id36037830">From its inception, Connexions was designed to allow the collaborative development and free availability of material. Instructors and authors can modify this material for any educational purpose. Connexions ofers FreejOpen Source software tools to help students, instructors, and authors manage these information assets forsharingandadvancingknowledgetobenefttheglobaleducationalcommunity. Allofthisisaccomplished through the use of the Creative Commons Attribution license<sup>2 </sup>. </para>
+    <para id="id18113876">There are three general categories of Connexions users: </para>
+    <list id="id22310007" list-type="bulleted">
+      <item>Students -who use Connexions to access information on-line, to prepare for their classes. </item>
+      <item>Authors -who enter content into Connexions in document fles called modules. </item>
+      <item>Instructors -who build courses, which are documents created by linking related modules together in a specifc order. </item>
+    </list>
+    <para id="id10068793">Before you begin using the Connexions system, you should verify that you have all of the necessary software. Visit the Connexions Quick Start Guide<sup>3 </sup>for a listing of the software that you will need and the links to help you download it. </para>
+    <para id="id35973357">1.1.2 The Connexions Home Page </para>
+    <para id="id33941005">The Connexions home page (Figure 1.1) is the starting point for your use of Connexions. It contains the following items: </para>
+    <list id="id33175084" list-type="bulleted">
+      <item>Home, Content, Lenses, About Us, Help, and MyCNX tabs (Section 1.1.2.1: Home, Content, Lenses, About Us, Help, and MyCNX Tabs) </item>
+      <item>Breadcrumb Navigation Bar (Section 1.1.2.2: Breadcrumb Navigation Bar) </item>
+      <item>Search Box and Quick Links (Section 1.1.2.3: Search and Quick Links) </item>
+      <item>My Account and Login Sidebar (Section 1.1.2.4: My Account and Login Sidebar) </item>
+      <item>Featured Content (Section 1.1.2.5: Featured Content) </item>
+      <item>Find Content (Section 1.1.2.6: Find Content) </item>
+    </list>
+    <para id="id35771541"><sup>1 </sup>This content is available online at &lt;http://cnx.org/content/ml0884/2.26/&gt;. <sup>2 </sup>http://creativecommons.org/licenses/by/3.0/ <sup>3 </sup>http://cnx.org/help </para>
+    <para id="id31118311">1 </para>
+    <list id="id28102369" list-type="bulleted">
+      <item>Create Content (Section 1.1.2.7: Create Content) </item>
+      <item>Spotlight Sidebar (Section 1.1.2.8: Spotlight Sidebar) </item>
+      <item>Connexions News Sidebar </item>
+      <item>Create a Connexions Account (Section 1.1.3: Account Requests) </item>
+    </list>
+    <para id="id21435744">These items also appear on the other Connexions web pages. </para>
+    <para id="id35984640">Figure 1.1: Connexions home page </para>
+    <para id="id16260711"><figure id="id35955977"><media id="id35955977_media" alt=""><image mime-type="image/jpg" src="../../media/graphics1.jpg" id="id35955977__onlineimage" height="532" width="600"/></media></figure>1.1.2.1 Home, Content, Lenses, About Us, Help, and MyCNX Tabs </para>
+    <para id="id11324449">On the upper left of the Connexions home page are tabs labeled "Home", "Content", "About Us", "Help", and "MyCNX". Clicking on these tabs display the following Connexions pages: </para>
+    <list id="id12190344" list-type="bulleted">
+      <item>Home<sup>4 </sup>returns to the Connexions home page. </item>
+      <item>Content<sup>5 </sup>takes you to the Content landing page, where you can search for modules and collections of interest or browse the repository by subject, author, popularity and more. </item>
+    </list>
+    <para id="id29353436"><sup>4 </sup>http://cnx.org/ <sup>5 </sup>http://cnx.org/content/ </para>
+    <list id="id15741696" list-type="bulleted">
+      <item>Lenses<sup>6 </sup>is a portal to all user and organization-created lenses<sup>7 </sup>. </item>
+      <item>About<sup>8 </sup>displays the "About" page that contains a general description of Connexions and links to more detailed information about Connexions, how it works, the people behind it, and a list of contacts. </item>
+      <item>Help<sup>9 </sup>displays the "Help" page that contains links to installation, reference, and other information to answer your questions about Connexions. </item>
+      <item>MyCNX<sup>1</sup><sup>0 </sup>displays your author homepage if you are signed in. This page includes links to your personal workspace, your workgroups, your lenses, and content you've recently visited. </item>
+    </list>
+    <para id="id4706240">1.1.2.2 Breadcrumb Navigation Bar </para>
+    <para id="id27964655">The "You are here" Breadcrumb navigation bar (Figure 1.2) is located just below the "Home", "About", "Content", "Software", and "Help" tabs. This navigation tool is a breadcrumb trail of the Connexions pages you have displayed as you have drilled into Connexions to get to the current page. By clicking on any point within the breadcrumb trail you can return to that page. This feature is very useful for returning to the workgroup level page after working with the items within the workgroup. </para>
+    <para id="id14840472"><figure id="id14840476"><media id="id14840476_media" alt=""><image mime-type="image/jpg" src="../../media/graphics2.jpg" id="id14840476__onlineimage" height="29" width="581"/></media></figure>Figure 1.2: Breadcrumb navigation bar </para>
+    <para id="id20499356">1.1.2.3 Search and Quick Links </para>
+    <para id="id16787905">You can search the Content Commons for a specifc module or a course using the Search button and text box in the upper right of the Connexions home page. Type in a name, keyword, course title, module title, text string, or object ID in the Search text box and click Search. Connexions will display a list of all modules and courses that match your entry. To view a module or course, click on its title. </para>
+    <para id="id34186826">Above the search box are three quick links for your convenience. These links vary, depending on whether you are logged into the system or not. </para>
+    <para id="id14465644">Figure 1.3: Personal toolbar before login </para>
+    <para id="id34030653"><figure id="id22955202"><media id="id22955202_media" alt=""><image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id22955202__onlineimage" height="150" width="447"/></media></figure>If you have a Connexions account and are logged into the system, you can perform the following actions by clicking on the links in this toolbar (Figure 1.4): </para>
+    <para id="id36063701"><sup>6 </sup>http://cnx.org/lenses/ <sup>7 </sup>http://cnx.org/help/lens what <sup>8 </sup>http://cnx.org/aboutus/ <sup>9 </sup>http://cnx.org/help/ </para>
+    <para id="id33578585"><sup>1O </sup>http://cnx.org/author home </para>
+    <list id="id34556405" list-type="bulleted">
+      <item>Contact Connexions </item>
+      <item>Report a bug </item>
+      <item>Log out of the system </item>
+    </list>
+    <para id="id19632911"><figure id="id33561676"><media id="id33561676_media" alt=""><image mime-type="image/jpg" src="../../media/graphics4.jpg" id="id33561676__onlineimage" height="111" width="319"/></media></figure>Figure 1..: Personal toolbar after login </para>
+    <para id="id34476166">1.1.2.4 My Account and Login Sidebar </para>
+    <para id="id30976620">On the right side of the Connexions homepage is the My Account sidebar. Its display depends on whether you are logged in or not. </para>
+    <para id="id20550623">Figure 1.5: My Accounts sidebar </para>
+    <para id="id33383298"><figure id="id33454756"><media id="id33454756_media" alt=""><image mime-type="image/jpg" src="../../media/graphics5.jpg" id="id33454756__onlineimage" height="300" width="547"/></media></figure>(a) (b) The image on the left is displayed if you are not logged into Connexions or do not yet have an account. If you have a Connexions account, you can log into the system using this sidebar. In addition, there is a link to reset your password (if you forgot it), and a link to the page for requesting a new Connexions account. </para>
+    <para id="id34276047">The image on the right is displayed if you are logged into Connexions. It features links to your MyCNX authoring page, a link to change your account settings, and a link to modules that you have marked as your favorites. If you have any pending role requests or suggested edits, these will also be displayed in the My Account box. </para>
+    <para id="id20365994">1.1.2.5 Featured Content </para>
+    <para id="id35549934">The Featured Content portal is located on the left side of the Home Page. It is used to showcase Connexions' most popular and outstanding content, ranging from math and science collections to academic lenses. </para>
+    <para id="id22053564">1.1.2.6 Find Content </para>
+    <para id="id30883727">You can start browsing Connexions' modules and collections from the Home Page by using the Find Content portal. The Search Content box is used to search for keywords related to the content you would like to fnd. </para>
+    <para id="id16095779">There are also several links in the Find Content portal that will point you toward interesting Connexions content. First, place your mouse over the way you wish to browse the repository� either by Subject, Language, Popularity, or Title, etc. This will change the list of links on the right. Click on a link to being browsing that particular selection of Connexions content. </para>
+    <para id="id7611162">1.1.2.7 Create Content </para>
+    <para id="id21049937">It's easy to get started creating content on Connexions. The Create Content portal contains links to help you being authoring your own modules and collections. </para>
+    <para id="id20935812">1.1.2.8 Spotlight Sidebar </para>
+    <para id="id7362166">This sidebar features authors and their content, feedback from Connexions users, and events related to Connexions. </para>
+    <para id="id19252124">Figure 1.6: The Spotlight sidebar </para>
+    <para id="id36039683"><figure id="id36039686"><media id="id36039686_media" alt=""><image mime-type="image/jpg" src="../../media/graphics6.jpg" id="id36039686__onlineimage" height="463" width="418"/></media></figure>1.1.2.9 News Sidebar </para>
+    <para id="id12218933">This sidebar contains links to news items<sup>11 </sup>about the latest developments with Connexions. This includes updates to the site and outside publications that feature Connexions. </para>
+    <para id="id15920136">1.1.3 Account Requests </para>
+    <para id="id15920140">To apply for a Connexions account, use the following steps: </para>
+    <list id="id20886029" list-type="enumerated" number-style="arabic">
+      <item>Click on the Get An Account link in the My Account sidebar. The Request a Connexions Account (Figure 1.7) page displays. </item>
+      <item>Type in your frst and last name, e-mail address, and home page URL. The felds with red squares next to the feld names are required. </item>
+      <item>Type in a user name. </item>
+      <item>Review the site license agreement and check the box next to I have read the Connexions Site License and I agree to be bound by its terms. You must agree to the license in order to receive an account. </item>
+      <item>Click Request Account. The "Account Request Complete" page displays. Connexions will send an </item>
+    </list>
+    <para id="id10866808"><sup>11 </sup>http://cnx.org/news/ </para>
+    <para id="id9742488">Figure 1.7: "Request a Connexions Account" page </para>
+    <para id="id15525299"><figure id="id24966618"><media id="id24966618_media" alt=""><image mime-type="image/jpg" src="../../media/graphics7.jpg" id="id24966618__onlineimage" height="681" width="600"/></media></figure>e-mail to the address you entered in the step above. The e-mail contains directions for activating your new account. </para>
+    <para id="id20605549">1.1.4 Logging In and Out </para>
+    <para id="id20605553">To log into Connexions, enter your user name and password in the My Account sidebar and click Log in. To log out, click the Log out link located above the Search Box (Figure 1.4), in the upper right side of the Connexions home page. </para>
+    <para id="id19004882">1.2 Reporting a Connexions Bug<sup>12 </sup></para>
+    <para id="id17460700">1.2.1 Submitting a Bug Report </para>
+    <para id="id20396150">In any software package you may encounter the occasional faw with a feature or the documentation. Please bring these faws, or bugs, to the attention of the Connexions team with the Report a Bug link, which is located on the Connexions Home page<sup>13 </sup>and on other Connexions web pages in the Personal Toolbar. </para>
+    <para id="id9537895">To report a bug, use the following steps: </para>
+    <list id="id9537899" list-type="enumerated" number-style="arabic">
+      <item>Click on the Report a Bug link. The Bug Report Submission Form<sup>14 </sup>displays. </item>
+      <item>Enter a short summary of the problem. </item>
+      <item>Enter your name and e-mail address. These aren't required, but it helps us to know who's having trouble, and if you don't enter an email address we can't get back to you with an answer. </item>
+      <item>The page you were on immediately before the bug form is entered automatically into the "Problem URL" feld. If you didn't come directly from the error page, please go back to the page where you had the problem and enter its address here. If the problem was on a module or collection, the object ID number is sufcient, e.g. m99999. A content object's ID appears in its URL or on the page behind the "More About This Content" link. </item>
+      <item>Specify the nature of the error. Click the down arrow in the "Category" feld and select the appropriate entry from the drop-down menu. </item>
+      <item>Specify the impact of the error. Click the down arrow in the "Severity" feld and select the appropriate entry from the drop-down menu. </item>
+      <item>Enter a one-line summary of the bug in the "Task Title" feld. </item>
+      <item>Enter an explanation of the circumstances of the error in the "Description" feld. Include your actions and the system's actions that led up to the error condition. If possible, include step-by-step instructions for reproducing the bug. </item>
+      <item>Click Submit to enter the bug into the Connexions tracking system. </item>
+    </list>
+    <para id="id27863815">1.2.2 Helpful Tips for Submitting Bug Reports </para>
+    <para id="id10876472">Here are some tips for submitting error reports that will help us fx the bugs quickly. </para>
+    <para id="id7632944">• First, do not close the error message display until you have captured some information from it to include in your bug report. The error message contains important information. If you have left it to go to the Bug Report Submission Form<sup>15 </sup>or to a Help<sup>16 </sup>page, use the Back function on your browser to redisplay the error message. </para>
+    <para id="id33636484"><sup>12 </sup>This content is available online at &lt;http://cnx.org/content/mll836/l.7/&gt;. <sup>13 </sup>http://cnx.org/ <sup>14 </sup>http://cnx.org/bug submit form <sup>15 </sup>http://cnx.org/bug submit form <sup>16 </sup>http://cnx.org/help/ </para>
+    <list id="id24608509" list-type="bulleted">
+      <item>Include a copy of the error page. If the error displays an actual error message, please copy the text of that message and paste it into the bug report. It is even better to include the HTML source of the error message some of our systems include important information in HTML comments. While the error message is displaying, right click your mouse and select the View Source or View Page Source option, depending on your browser, to display the HTML for the page. Then you can copy the HTML information and paste it into the bug report. </item>
+      <item>Full descriptions of errors are very useful. If your error involved a specifc module, include the name of the module. If you were in the editing interface, include the workgroup andjor module with which you were working. If you were using the Collection Composer, mention which course you were working with, and so forth. Include the exact URL of the page on which the error occurred. Always include a description of what you were doing, if you can. </item>
+    </list>
+    <para id="id17461704">1.3 Viewing Connexions Content<sup>17 </sup></para>
+    <para id="id22374382">See the Introduction to Connexions (Section 1.1) module for an overview of Connexions. </para>
+    <para id="id35651800">1.3.1 Searching the Content Commons </para>
+    <para id="id33754214">You can search the Content Commons for a specifc module or a course using the Search button and text box in the upper right of the Connexions web pages. Type in a name, keyword, course title, module title, text string, or object ID in the Search text box and click Search. Connexions will display a list of all modules and collections that match your entry. To view a module or collection, click its title. </para>
+    <para id="id20981339">1.3.2 Opening a Collection </para>
+    <para id="id20396274">Select the "Content" tab (above the You are here Breadcrumb bar) to display the Content Commons (Figure 1.8) screen. This tab allows you to search for modules or collections by title, author name, or subject area. You can also display a listing of all content by subject, title, author name, keyword, popularity, and more by selecting the appropriate item under the "Browse All Content" heading on the tab. </para>
+    <para id="id10492708">a Collection or Course </para>
+    <para id="id15606983">When you frst open a course, the course title page displays. This page contains two panels. One panel displays the Start Course link and course information, such as the institution, instructor, contributing authors, and a brief description of the course. Click Start Course to display the entire course, beginning with the frst module. The other panel is labeled "Course Contents" and it contains a table of contents for the course that lists the names of the sections and modules within that course. You can click a module name to display that module. </para>
+    <para id="id9940158"><sup>17 </sup>This content is available online at &lt;http://cnx.org/content/mll837/l.l4/&gt;. </para>
+    <para id="id12341692">Once you display a module from within a course, you can move to the previous module or to the next module in the course by clicking the «Previous or Next» links that appear in the upper right corner. </para>
+    <para id="id16720990">NOTE: The «Previous and Next» links only display when you access a module from within a course. If you access a module directly from a browser, these links to do not appear. </para>
+    <para id="id8015640">1.3.4 Viewing Related Material </para>
+    <para id="id19203995">You can view content related to the module you are displaying using the links in the "Related Material" panel that appears to the left of the module content. This panel includes: </para>
+    <list id="id20221460" list-type="bulleted">
+      <item>The names of other modules that contain content similar to the current module. Click a module name to display that module. </item>
+      <item>Any other courses that contain the current module. Click a course name to display that course. </item>
+    </list>
+    <para id="id33668643"><figure id="id19541852"><media id="id19541852_media" alt=""><image mime-type="image/jpg" src="../../media/graphics8.jpg" id="id19541852__onlineimage" height="399" width="439"/></media></figure>In the panel that appears to the right of the module content you can view links to examples, supplemental material, or prerequisite material provided by the module author. The importance of the links are shown by the number of bars in the box to the left of the link name. These links can be to material within Connexions or to a website outside of Connexions. </para>
+    <para id="id21971924">Figure 1.11: Links to pre-requisite materials, supplemental materials, and examples (not shown in this example) </para>
+    <para id="id19311438"><figure id="id19311441"><media id="id19311441_media" alt=""><image mime-type="image/jpg" src="../../media/graphics9.jpg" id="id19311441__onlineimage" height="319" width="581"/></media></figure>1.3.5 Displaying Information about the Module </para>
+    <para id="id18938207">To display the metadata for the module, click the Metadata link at the end of the module. Metadata are non-content information about a module, such as the module ID, license type, version number, creation date, revision date, authors, maintainers, copyright holders, module name, keywords, and abstract. </para>
+    <para id="id22022369">1.3.6 Viewing Module Revision History </para>
+    <para id="id34450563">To view the revision history of a module, click the Version History link at the end of the module. When a new module is published Connexions assigns a revision number to that version of the module. If if becomes necessary to update the module, the author checks it out, edits it, and publishes it again. An incremented revision number is assigned to the updated version. Connexions stores all this revision information and you can view it on the History page for the module. </para>
+    <para id="id14833190">1.3.7 Printing a Module </para>
+    <para id="id20667027">To generate a PDF fle of a module, which you can print, click the Download PDF link that appears in the upper right corner of the module in the "Content Actions" panel. Sometimes you may want or need a printed copy of the material for studying purposes. You can generate a PDF fle for any module. These PDF fles are formatted for printing with page numbers, headers, footers, and numbered headings. Since the printing process uses a PDF fle, you must have a software package that can print PDF fles installed on your PC. </para>
+  </content>
+</document>
